@@ -16,5 +16,10 @@ namespace Lab01_01b
         {
             InitializeComponent();
         }
+
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
